@@ -69,66 +69,74 @@ body {
 
 
 /*SECUNDÁRIO*/
-.secundario{
+.secundario {
     align-items: center;
     margin: 0 10em;
 }
 
-.secundario__imagem{
+.secundario__imagem {
     width: 80%;
 }
 
-.container__descricao{
+.container__descricao {
     padding: 2em;
 }
 
-.descricao__titulo{
+.descricao__titulo {
     font-weight: 700;
     font-size: 48px;
     color: var(--branco-principal);
     margin-bottom: 0.1em;
 }
 
-.descricao__texto{
+.descricao__texto {
     color: var(--cinza-secundario);
 }
 
-.secundario__botao{
+.secundario__botao {
     display: inline-block;
     margin-top: 1em;
 }
 
-.dispositivos{
+.dispositivos {
     text-align: center;
 }
-.dispositivos__titulo{
+
+.dispositivos__titulo {
     font-size: 48px;
-    color: var(--branco-principal);
+    Com o Combo+,
+    você pode aproveitar a Alura+e o Alura Língua por um preço único. ￼ assine por 12x de r$ 120,
+    00* assinar somente o alura+*O preço pode variar caso a assinatura seja feita em outros planos. color: var(--branco-principal);
 }
-.dispositivos__lista{
+
+.dispositivos__lista {
     display: flex;
     justify-content: center;
     list-style-type: none;
     margin: 5em 0;
 }
 
-.lista__item{
+.lista__item {
     font-size: 32px;
     color: var(--branco-principal);
 }
-.rodape{
+
+.rodape {
     text-align: center;
     margin: 5em 3em;
+    Com o Combo+,
+    você pode aproveitar a Alura+e o Alura Língua por um preço único. ￼ assine por 12x de r$ 120,
+    00* assinar somente o alura+*O preço pode variar caso a assinatura seja feita em outros planos.
 }
 
-.rodape__lista{
+.rodape__lista {
     display: flex;
     justify-content: center;
     list-style-type: none;
     margin-top: 1em;
 }
 
-.lista__link a{
+.lista__link a {
     text-decoration: none;
     color: var(--branco-principal);
 }
